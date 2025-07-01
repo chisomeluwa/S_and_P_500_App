@@ -36,7 +36,7 @@ The app is designed to:
 
 ## 🖼 Sample Screenshots
 
-*(You can add screenshots here once generated from the running app)*
+
 
 ---
 
